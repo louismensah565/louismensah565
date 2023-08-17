@@ -1,6 +1,6 @@
 -  Hi, I’m @louismensah565@gmail.com
 -  I’m interested in cybersecurity,full stack web development,software engineering and github training
--  I’m currently learning github
+-  I’m currently learning how to create a github repository
 -  I’m looking to collaborate on louismensah565/louismensah565
 
 <!---
